@@ -1,0 +1,113 @@
+{
+   "accountBalance": {
+      "message": "Account Balance:"
+   },
+   "audioSingleAdjustment": {
+      "message": "uni-adjust"
+   },
+   "description": {
+      "message": "Click the plugin to auto-translate YouTube videos and play the audio in your preferred language."
+   },
+   "expirationDate": {
+      "message": "Expiration Date:"
+   },
+   "firefoxRestrictions": {
+      "message": "Due to restrictions on the Firefox browser, you need to manually start video playback first, then click the plugin button for voiceover playback."
+   },
+   "iOSRestriction": {
+      "message": "Due to iOS system restrictions, you need to click confirm to start the voiceover playback"
+   },
+   "man": {
+      "message": "Male"
+   },
+   "memberUser": {
+      "message": "PRO"
+   },
+   "musicVideoTranslationUnavailable": {
+      "message": "The current video is a pure music video and cannot be translated or dubbed"
+   },
+   "name": {
+      "message": "Youtube Dubbing"
+   },
+   "noSubtitlesMessage": {
+      "message": "The current video has no subtitles"
+   },
+   "openAICallFailed": {
+      "message": "OpenAI call failed. Please contact customer service to resolve the issue. The service has been downgraded to Google Translate."
+   },
+   "originalVolume": {
+      "message": "Orig.Vol:"
+   },
+   "pageSwitchPause": {
+      "message": "Pause on tab switch:"
+   },
+   "pay": {
+      "message": "pay"
+   },
+   "playButtonColor": {
+      "message": "OpenAI translation can only be enabled when the play button is displayed in yellow or green."
+   },
+   "regularUser": {
+      "message": "Basic"
+   },
+   "save_settings": {
+      "message": "Save Settings"
+   },
+   "sex": {
+      "message": "Gender:"
+   },
+   "source_languages": {
+      "message": "Source Language:"
+   },
+   "speedAdjustmentMode": {
+      "message": "Speed:"
+   },
+   "subtitleNotInitialized": {
+      "message": "Subtitles have not been initialized yet."
+   },
+   "subtitleQualityImprovement": {
+      "message": "We are improving the quality of subtitles for you. Once the optimization is complete, you will be notified by email. Upon receiving it, please refresh the video to enjoy a better viewing experience"
+   },
+   "targetVolume": {
+      "message": "Dub.Vol:"
+   },
+   "target_languages": {
+      "message": "Target Language:"
+   },
+   "translateService": {
+      "message": "Translate:"
+   },
+   "translationRequestFailure": {
+      "message": "Subtitle translation failed, please try again later."
+   },
+   "userStatus": {
+      "message": "User Identity:"
+   },
+   "videoAudioAdjustment": {
+      "message": "bi-adjust"
+   },
+   "videoEnhancement": {
+      "message": "This video specifically includes subtitles exclusively optimized by the plugin to enhance your viewing experience. Simply click on the plugin icon to get a better viewing experience!"
+   },
+   "videoIdFetchFailure": {
+      "message": "Failed to retrieve video ID"
+   },
+   "videoOptimization": {
+      "message": "The current video is undergoing optimization."
+   },
+   "videoStatusNotification": {
+      "message": "Your current video is set to private, which prevents the plugin from automatically optimizing the quality of subtitles. For the plugin to perform optimization, please change the video's privacy setting to unlisted. After making the video unlisted, using the plugin to play it again will trigger the optimization of subtitles."
+   },
+   "voices": {
+      "message": "Voice:"
+   },
+   "welcome": {
+      "message": "Welcome:"
+   },
+   "woman": {
+      "message": "Female"
+   },
+   "youtubeSubtitleError": {
+      "message": "Failed to fetch subtitles, please refresh and try again, or send the problem to the email: darkwood962@gmail.com"
+   }
+}
