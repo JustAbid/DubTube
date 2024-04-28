@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "DubTube",
+    "version": "1.0",
+    "description": "Translate and dub YouTube videos in real-time",
+    "permissions": ["activeTab", "storage", "tabs"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://www.youtube.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
+      }
+    ],
+    "icons": {
+      "48": "icon.png",
+      "96": "icon.png"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png"
+      }
+    }
+  }
+  
